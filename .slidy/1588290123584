@@ -1,0 +1,4 @@
+lib/app/modules/pettipos/pettipos_page.dart
+test/app/modules/pettipos/pettipos_page_test.dart
+lib/app/modules/pettipos/pettipos_bloc.dart
+test/app/modules/pettipos/pettipos_bloc_test.dart

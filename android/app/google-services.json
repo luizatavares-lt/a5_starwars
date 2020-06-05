@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "511854435061",
+    "firebase_url": "https://starwars-51ddc.firebaseio.com",
+    "project_id": "starwars-51ddc",
+    "storage_bucket": "starwars-51ddc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511854435061:android:b13dc1aec4d0ac7a5e43bc",
+        "android_client_info": {
+          "package_name": "com.cdm.starwars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511854435061-r2r8u4gjgsir47jggp76phrnq7qrq7sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_VeaY2JH7lKz8LzWSiPNq7VeD2TOEpls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511854435061-r2r8u4gjgsir47jggp76phrnq7qrq7sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
